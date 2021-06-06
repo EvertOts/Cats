@@ -1,6 +1,6 @@
-`git clone https://github.com/Kasparsu/mm18cats.git`
 
-`cd mm18cats`
+
+`cd cats`
 
 `cp .env.example .env`
 
